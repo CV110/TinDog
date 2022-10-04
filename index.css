@@ -72,15 +72,14 @@ main {
 
 .btn-container {
     
-    height: 140px;
+    
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .circle-container {
-    margin-left: 0.5em;
-    margin-right: 0.5em;
+    margin:1.5em 0.5em;
     display: flex;
     justify-content: center;
     align-items: center;
