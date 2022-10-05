@@ -22,6 +22,22 @@ const dogs = [
         bio: "How you doin?",
         hasBeenSwiped: false,
         hasBeenLiked: false
+    },
+    {
+        name: "Sam",
+        avatar: "images/sam.jpeg",
+        age: 27,
+        bio: "Let's go to the park?",
+        hasBeenSwiped: false,
+        hasBeenLiked: false
+    },
+    {
+        name: "Billy",
+        avatar: "images/billy.jpeg",
+        age: 23,
+        bio: "Love to eat and sleep",
+        hasBeenSwiped: false,
+        hasBeenLiked: false
     }
 ]
 
